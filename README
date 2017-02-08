@@ -24,6 +24,8 @@ To build:
  - cmake ..
  - make
 
+test it:
+~/Kinect-Mouse/kmouse
 
 Special thanks to OpenKinect Project. http://www.openkinect.org
 For updates follow me on twitter http://www.twitter.com/timOoblik
