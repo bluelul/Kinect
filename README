@@ -36,3 +36,16 @@ Edit by lttung1197
 
 https://fredfire1.wordpress.com/2016/09/23/install-and-setup-kinect-xbox-360-1473-debian-ubuntu-64bit/
 https://openkinect.org/wiki/Getting_Started#Testing_the_Kinect
+
+--Skeleton--
+#NiTE need sss3 to work (not supported in most AMD chip (but Intel))
+http://www.etti.tuiasi.ro/cin/Courses/SistEmbedded/Projects/Linux/BeagleBoard/Kinect_on_Ubuntu/Kinect_on_Ubuntu.html
+http://www.overconsulting.net/posts/installation-d-une-kinect-sous-ubuntu-13-10-openni2-freenect-nite2
+http://mitchtech.net/ubuntu-kinect-openni-primesense/
+http://www.keyboardmods.com/2010/12/howto-kinect-openninite-skeleton.html
+
+#Another method
+https://github.com/nickgillian/grt
+https://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc12/Glynos/docs/MasterThesis_CG.pdf
+http://dougsbots.blogspot.com/2012/02/ros-kinect-skeleton-tracking.html
+
